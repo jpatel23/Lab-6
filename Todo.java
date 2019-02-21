@@ -12,7 +12,7 @@ Tasks:
 4. Finish Equilateral Triangle Constructor
 5. Finish getArea for triangle method
 6. Finish triangle getShapeType method
-7. 
+7. Complete polygon getPerimeter method
 8. 
 9. 
 10. 
@@ -41,7 +41,7 @@ Estimated Time (minutes):
 4. 2
 5. 3
 6. 3
-7. 
+7. 5
 8. 
 9. 
 10. 
@@ -72,7 +72,7 @@ Actual Time (minutes):
 4. 2
 5. 2
 6. 1
-7. 
+7. 3
 8. 
 9. 
 10. 
