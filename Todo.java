@@ -9,9 +9,9 @@ Tasks:
 1. Finish Circle Constructor
 2. Finish getPerimeter method
 3. Finish getShapeType method
-4. 
-5. 
-6. 
+4. Finish Equilateral Triangle Constructor
+5. Finish getArea for triangle method
+6. Finish triangle getShapeType method
 7. 
 8. 
 9. 
@@ -38,9 +38,9 @@ Estimated Time (minutes):
 1. 3
 2. 5
 3. 5
-4. 
-5. 
-6. 
+4. 2
+5. 3
+6. 3
 7. 
 8. 
 9. 
@@ -69,9 +69,9 @@ Actual Time (minutes):
 1. 2
 2. 3
 3. 3
-4. 
-5. 
-6. 
+4. 2
+5. 2
+6. 1
 7. 
 8. 
 9. 
