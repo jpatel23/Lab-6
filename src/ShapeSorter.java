@@ -23,6 +23,7 @@ public class ShapeSorter
 	public ShapeSorter()
 	{
 		// TODO: complete this...
+		
 	}
 
 	/**
@@ -33,6 +34,7 @@ public class ShapeSorter
 	public void addShape(Shape s)
 	{
 		// TODO: complete this...
+		shapes.add(s);
 	}
 
 	/**
@@ -68,6 +70,7 @@ public class ShapeSorter
 	public String toString()
 	{
 		// TODO: complete this...
+		
 	}
 
 }

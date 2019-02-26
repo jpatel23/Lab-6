@@ -16,7 +16,7 @@ Tasks:
 8. Complete compareTo shape method
 9. Complete toString method in shape class
 10. Complete compare method in ShapeAreaComparator class
-11. Complete equals method in ShapeAreaComparator class
+11. C omplete equals method in ShapeAreaComparator class
 12. Complete compare method in ShapePerimeterComparator class
 13. Complete equals method in ShapePerimeterComparator class
 14. 
