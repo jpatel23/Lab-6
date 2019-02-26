@@ -33,6 +33,16 @@ public class ShapePerimeterComparator implements Comparator<Shape>
 	public int compare(Shape s1, Shape s2)
 	{
 		// TODO: complete this...
+		if (s1.compareTo(s2) == -1) {
+			return -1;
+		}
+		else if (s1.compareTo(s2) == 1) {
+			return 1;
+		}
+		else {
+			return 0;
+		}
+		
 	}
 
 	/**
@@ -46,5 +56,10 @@ public class ShapePerimeterComparator implements Comparator<Shape>
 	public boolean equals(Shape s1, Shape s2)
 	{
 		// TODO: complete this...
+		int value = compare(s1, s2);
+		if (value == 0) {
+			return true;
+		}
+		return false;
 	}
 }
