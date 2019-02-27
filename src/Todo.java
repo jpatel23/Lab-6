@@ -33,7 +33,13 @@ Tasks:
 24. Complete getShapeType for trapezoid
 25. Create and complete Rectangle class
 26. Create and complete Square class
-27. Finish ShapeTest class
+27. Complete rectangleTest
+28. Complete triangleTest
+29. Complete trapezoidTest
+30. Complete circleTest
+31. Complete shapeToStringTest
+32. Complete ComparePerimeterTest
+33. Complete NaturalCompareTest
 
 Estimated Time (minutes):
 1. 3
@@ -50,20 +56,25 @@ Estimated Time (minutes):
 12. 3
 13. 3
 14. 4
-15. 5
-16. 5
+15. 2
+16. 4
 17. 5 
-18. 5
-19. 5
-20. 5
-21. 5
-22. 5
-23. 5
-24. 5
+18. 7
+19. 8
+20. 6
+21. 7
+22. 10
+23. 2
+24. 1
 25. 5
 26. 5
-27. 50
-
+27. 10
+28. 8
+29. 7
+30. 6
+31. 9
+32. 10
+33. 6
 Actual Time (minutes):
 1. 2
 2. 3
@@ -91,5 +102,11 @@ Actual Time (minutes):
 24. 1
 25. 5
 26. 5
-27. 70
+27. 7
+28. 6
+29. 6
+30. 6
+31. 10
+32. 8
+33. 7
 */}

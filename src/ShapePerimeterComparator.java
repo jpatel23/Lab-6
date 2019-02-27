@@ -57,9 +57,6 @@ public class ShapePerimeterComparator implements Comparator<Shape>
 	{
 		// TODO: complete this...
 		int value = compare(s1, s2);
-		if (value == 0) {
-			return true;
-		}
-		return false;
+		return value == 0;
 	}
 }
